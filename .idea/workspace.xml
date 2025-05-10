@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46054294-eeee-490c-a925-670d36c1777f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CS Final 5000 Dice Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctk_gui.py" afterDir="false" />
-    </list>
+    <list default="true" id="46054294-eeee-490c-a925-670d36c1777f" name="Changes" comment="Base 5000 game&#10;&#10;Fully functional 5000 dice game with UI, logic seperate." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +38,8 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Rox/Desktop/School/S-2/Intro to CSII/CS II Final/CS Final 5000 Dice Game",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Rox/Desktop/School/S-2/Intro to CSII/CS Final 5000 Dice Game",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,12 +74,25 @@
       <workItem from="1746559089001" duration="4707000" />
       <workItem from="1746642192837" duration="15846000" />
       <workItem from="1746713348236" duration="22406000" />
-      <workItem from="1746805060989" duration="42629000" />
+      <workItem from="1746805060989" duration="43299000" />
     </task>
+    <task id="LOCAL-00001" summary="Base 5000 game&#10;&#10;Fully functional 5000 dice game with UI, logic seperate.">
+      <option name="closed" value="true" />
+      <created>1746914402059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746914402059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base 5000 game&#10;&#10;Fully functional 5000 dice game with UI, logic seperate." />
+    <option name="LAST_COMMIT_MESSAGE" value="Base 5000 game&#10;&#10;Fully functional 5000 dice game with UI, logic seperate." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS_Final_5000_Dice_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1746897653860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
