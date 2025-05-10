@@ -1,0 +1,37 @@
+Objective
+Be the first player to reach 5000 points by rolling scoring combinations.
+
+Game Setup
+Choose a player to go first. Play moves clockwise.
+Each player rolls all 6 dice on their turn and tries to build up points.
+
+Scoring Values
+You score points with specific combinations:
+
+Single Dice:
+1 = 100 points
+5 = 50 points
+
+Three of a Kind:
+Three 1s = 1,000 points
+Three 2s = 200 points
+Three 3s = 300 points
+Three 4s = 400 points
+Three 5s = 500 points
+Three 6s = 600 points
+
+Straight:
+(1-2-3-4-5-6) = 1,500 points
+
+How to Play a Turn
+Roll all 6 dice. Set aside at least one scoring die (or combo).
+You may choose to stop and bank your points or keep rolling the remaining dice to try for more.
+If you roll and don't get any scoring dice, you "Bust" and lose all points from that turn.
+If you use all 6 dice to score, you may roll all 6 again to keep adding points.
+After banking points, your turn ends and those points are added to your total.
+
+Winning the Game
+First to 5000 points or more triggers the final round.
+All other players get one last turn to beat that score.
+
+Highest score at the end wins!

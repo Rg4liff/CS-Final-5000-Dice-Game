@@ -1,0 +1,14 @@
+Single Dice:
+5 = 50 points
+1 = 100 points
+
+Three of a Kind:
+Three 1s = 1,000 points
+Three 2s = 200 points
+Three 3s = 300 points
+Three 4s = 400 points
+Three 5s = 500 points
+Three 6s = 600 points
+
+Straight:
+(1-2-3-4-5-6) = 1,500 points
